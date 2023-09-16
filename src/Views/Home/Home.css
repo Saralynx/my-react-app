@@ -9,14 +9,16 @@
 .box {
   width: 40px;
   height: 40px;
-  background-color: rgb(62, 141, 86);
+  background-color: grey;
+  border-radius: 10px;
 }
 
 .box2 {
   width: 40px;
   height: 40px;
-  background-color: rgb(255, 113, 125);
+  background-color: grey;
   margin-top: 5px;
+  border-radius: 10px;
 }
 
 .imageclass{
@@ -24,4 +26,12 @@
   height: 400px;
   border-radius: 50px;
   margin-top: 10px;
+}
+
+.box3 {
+  width: 70px;
+  height: 70px;
+  background-color: white;
+  margin-top: 100px;
+  border-radius: 10px;
 }

@@ -17,16 +17,18 @@ export default function Home() {
 
       <div className="box2" > Box </div>
 
-      <div style={{backgroundColor: "blue", width: 500, height: 300, margin:20, padding: 80}}>
-        <div style={{backgroundColor: "#9f9f33", padding: 20}}>  <img
-        src={'https://i.pinimg.com/originals/e6/ba/0a/e6ba0a0e1a76e2fad592076f37bc50a3.jpg'}
-        className="imageclass"
+      <div style={{backgroundColor: "black", width: 600, height: 500, margin:20, padding: 20, flexDirection: 'row'}}>
+        <div style={{width: 5, height: 10, margin:10, float: 'left'}}>  <img
+        src={'https://pluspng.com/img-png/one-piece-png-one-piece-chibi-png-image-564.png'}
+        className="imageclass" 
       />  </div>
-        <div style={{backgroundColor: "#70163C", padding: 30}}>  <img
-        src={'https://i.pinimg.com/originals/e6/ba/0a/e6ba0a0e1a76e2fad592076f37bc50a3.jpg'}
+        <div style={{margin: 10, float: 'right'}}>  <img
+        src={'https://i.pinimg.com/564x/58/f2/51/58f251c954d944ef3ba0060ca56af599.jpg'}
         className="imageclass"
       />  </div>
       </div>
+
+  
 
 
 
@@ -35,4 +37,3 @@ export default function Home() {
     </div>
   )
 }
-
