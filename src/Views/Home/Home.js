@@ -25,10 +25,11 @@ export default function Home() {
         <div style={{margin: 10, float: 'right'}}>  <img
         src={'https://i.pinimg.com/564x/58/f2/51/58f251c954d944ef3ba0060ca56af599.jpg'}
         className="imageclass"
-      />  </div>
+        /> 
+        </div>
       </div>
 
-  
+
 
 
 

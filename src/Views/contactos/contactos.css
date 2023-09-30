@@ -19,7 +19,10 @@ Verdana
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 10px
+  gap: 10px;
+  margin: 10px;
+  padding: 18px 
+  
   
 }
 
@@ -29,25 +32,27 @@ Verdana
     gap: 10px;
     flex-wrap: nowrap;
     border: 1px solid gray;
-    box-shadow: 10px 5px 5px red;
+    box-shadow: 7px 6px 6px rgb(150, 127, 127);
     cursor: pointer;
     width: 300px;
   }
   .tarjeta-personaje:hover {
-    box-shadow: 10px 5px 5px green;
+    box-shadow: 10px 5px 5px rgba(139, 122, 138, 0.534);
   }
 
     .lado-izquierdo {
       display: flex;
       align-items: center;
       justify-content: center;
-      background-color: red;
+      background-color: rgb(70, 6, 6);
       
     }
       .personaje-imagen {
         height: 200px;
         width: 100px;
         object-fit: cover;
+        margin-left: 7px;
+        margin-top: 7px;
       }
 
     .lado-derecho {
@@ -55,7 +60,10 @@ Verdana
       flex-direction: column;
     }
       .personaje-nombre {
-        font-family: Verdana;
+        font-family: Georgia;
+        margin: 20;
+        background-color: #F4C2C2;
+
       }
       .personaje-apodo {
         font-family: Helvetica;
@@ -66,16 +74,19 @@ Verdana
 
       .contenedor-fecha-nacionalidad {
         display: flex;
-        justify-content: center;
-        align-items: center;
+        
       }
 
         .personaje-nacionalidad {
           font-family: Garamond;
           font-size: 20px;
           font-weight: 700;
+          flex: 2;
+
         }
         .personaje-fecha {
           font-family: Impact;
-          font-size: 15px;
+          font-size: 10px;
+          align-items: center;
+          flex: 1;
         }

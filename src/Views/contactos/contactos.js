@@ -14,7 +14,7 @@ const personajes = [
   {
     "nombre": "Rosalind Franklin",
     "apodo": "La Dama del ADN",
-    "imagen_url": "https://ejemplo.com/rosalind_franklin.jpg",
+    "imagen_url": "https://pbs.twimg.com/media/DqGZS71XQAEtukO.jpg",
     "ocupacion": "Biofísica y Cristalografía de rayos X",
     "nacionalidad": "Británica",
     "fecha_nacimiento": "25 de julio de 1920",
@@ -23,7 +23,7 @@ const personajes = [
   {
     "nombre": "Jane Goodall",
     "apodo": "La Dama de los Chimpancés",
-    "imagen_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWtIy_u6kDfTTsypMlY23_3LOZV9V2ZnaZpv9wWfSjEoA9xhYcERhTuJ4bXfBEyDH-Dc&usqp=CAU",
+    "imagen_url": "https://www.gcic.go.ug/wp-content/uploads/2023/08/DR-JANE-GOODALL-TO-GRACE-NGAMBA-ISLAND-CHIMPANZEE-SANCTURARY-SILVER-JUBILEE.png",
     "ocupacion": "Primatóloga y Etóloga",
     "nacionalidad": "Británica",
     "fecha_nacimiento": "3 de abril de 1934",
@@ -32,7 +32,7 @@ const personajes = [
   {
     "nombre": "Barbara McClintock",
     "apodo": "La Maestra de los Genes Saltarines",
-    "imagen_url": "https://ejemplo.com/barbara_mcclintock.jpg",
+    "imagen_url": "https://cdn.britannica.com/19/151119-050-6AAFA850/Barbara-McClintock-laboratory-Cold-Spring-Harbor-New-March-26-1947.jpg",
     "ocupacion": "Genetista",
     "nacionalidad": "Estadounidense",
     "fecha_nacimiento": "16 de junio de 1902",
@@ -41,7 +41,7 @@ const personajes = [
   {
     "nombre": "Ada Lovelace",
     "apodo": "Primera Programadora",
-    "imagen_url": "https://ejemplo.com/ada_lovelace.jpg",
+    "imagen_url": "https://www.cientificascasio.com/assets/img/cientificas/ada_lovelace/hero/circulo_cientifica.png",
     "ocupacion": "Matemática y Escritora",
     "nacionalidad": "Británica",
     "fecha_nacimiento": "10 de diciembre de 1815",
@@ -50,7 +50,7 @@ const personajes = [
   {
     "nombre": "Emmy Noether",
     "apodo": "Madre de la Matemática Moderna",
-    "imagen_url": "https://ejemplo.com/emmy_noether.jpg",
+    "imagen_url": "https://images.ecestaticos.com/9w4tG86j2VdrdcSDHDIwkRNFBKQ=/0x0:639x772/624x752/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F70d%2F92d%2F876%2F70d92d876143025c5c348afd8f7fa15e.jpg",
     "ocupacion": "Matemática",
     "nacionalidad": "Alemana",
     "fecha_nacimiento": "23 de marzo de 1882",
@@ -59,11 +59,20 @@ const personajes = [
   {
     "nombre": "Chien-Shiung Wu",
     "apodo": "La Reina de la Física Experimental",
-    "imagen_url": "https://ejemplo.com/chien_shiung_wu.jpg",
+    "imagen_url": "https://hackaday.com/wp-content/uploads/2017/09/wu.jpg",
     "ocupacion": "Física Experimental",
     "nacionalidad": "China",
     "fecha_nacimiento": "29 de mayo de 1912",
     "wikipedia_url": "https://es.wikipedia.org/wiki/Chien-Shiung_Wu"
+  },
+  {
+    "nombre": "Natalia Montellano",
+    "apodo": "<3",
+    "imagen_url": "https://www.ucb.edu.bo/wp-content/uploads/2020/09/Natalia-Montellano2-e1600795519349.jpg",
+    "ocupacion": "Ingeniera Biotecnologa",
+    "nacionalidad": "Bolivia",
+    "fecha_nacimiento": "",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Natalia_Montellano_Dur%C3%A1n"
   }
 ]
 
